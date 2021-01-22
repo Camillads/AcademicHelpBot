@@ -1,0 +1,14 @@
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\bin\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.deps.json
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\bin\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\bin\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\bin\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\bin\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\bin\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\bin\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.csprojAssemblyReference.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.AssemblyInfoInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.AssemblyInfo.cs
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.csproj.CoreCompileInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.csproj.CopyComplete
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.Data\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.Data.pdb

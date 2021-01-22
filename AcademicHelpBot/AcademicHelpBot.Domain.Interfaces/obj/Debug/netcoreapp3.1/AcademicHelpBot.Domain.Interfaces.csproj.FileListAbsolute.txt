@@ -1,0 +1,9 @@
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain.Interfaces\bin\Debug\netcoreapp3.1\AcademicHelpBot.Domain.Interfaces.deps.json
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain.Interfaces\bin\Debug\netcoreapp3.1\AcademicHelpBot.Domain.Interfaces.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain.Interfaces\bin\Debug\netcoreapp3.1\AcademicHelpBot.Domain.Interfaces.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain.Interfaces\obj\Debug\netcoreapp3.1\AcademicHelpBot.Domain.Interfaces.AssemblyInfoInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain.Interfaces\obj\Debug\netcoreapp3.1\AcademicHelpBot.Domain.Interfaces.AssemblyInfo.cs
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain.Interfaces\obj\Debug\netcoreapp3.1\AcademicHelpBot.Domain.Interfaces.csproj.CoreCompileInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain.Interfaces\obj\Debug\netcoreapp3.1\AcademicHelpBot.Domain.Interfaces.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain.Interfaces\obj\Debug\netcoreapp3.1\AcademicHelpBot.Domain.Interfaces.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain.Interfaces\obj\Debug\netcoreapp3.1\AcademicHelpBot.Domain.Interfaces.csprojAssemblyReference.cache

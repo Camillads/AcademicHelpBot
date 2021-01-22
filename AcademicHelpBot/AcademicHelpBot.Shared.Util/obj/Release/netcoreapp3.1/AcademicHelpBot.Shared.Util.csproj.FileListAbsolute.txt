@@ -1,0 +1,9 @@
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Shared.Util\bin\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.deps.json
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Shared.Util\bin\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Shared.Util\bin\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Shared.Util\obj\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.csprojAssemblyReference.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Shared.Util\obj\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.AssemblyInfoInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Shared.Util\obj\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.AssemblyInfo.cs
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Shared.Util\obj\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.csproj.CoreCompileInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Shared.Util\obj\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Shared.Util\obj\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.pdb

@@ -1,0 +1,14 @@
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.deps.json
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\AcademicHelpBot.Shared.Util.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.AssemblyInfo.cs
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.csproj.CopyComplete
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\AcademicHelpBot.Infra.CrossCutting.pdb

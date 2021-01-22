@@ -1,0 +1,9 @@
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain\bin\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.deps.json
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain\bin\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain\bin\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.pdb
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain\obj\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.csprojAssemblyReference.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain\obj\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.AssemblyInfoInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain\obj\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.AssemblyInfo.cs
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain\obj\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.csproj.CoreCompileInputs.cache
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain\obj\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.dll
+C:\TCC\AcademicHelpBot\AcademicHelpBot.Domain\obj\Release\netcoreapp3.1\AcademicHelpBot.Domain.Models.pdb
